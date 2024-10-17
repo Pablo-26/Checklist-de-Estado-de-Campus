@@ -29,6 +29,9 @@ Cada tarea incluirá un checklist detallado y deberá ser completado por todos l
 ### Tecnologías Empleadas
 El desarrollo de la aplicación está basado en tecnologías modernas que permiten una experiencia de usuario fluida y eficiente tanto para dispositivos Android como iOS.
 
+<img src='https://cdn.prod.website-files.com/62c6fbddb12bb54622241c3d/62c6fbddb12bb57fe22423d5_React_img1.png' width='200'>
+<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxQktpK3Jy3GkxXutGPzl8R3OBCNMxfFWP5A&s' width='300'>
+
 ## Proceso de desarrollo de la propuesta
 
 ### 1) Hacer y detallar los requisitos del negocio 
