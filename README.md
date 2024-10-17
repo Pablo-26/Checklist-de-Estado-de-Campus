@@ -223,7 +223,11 @@ Estableceremos las limitaciones que existen como el tiempo disponible, los recur
  
 
 <h2> Mapa de Capacidades </h2>
-Imagen del mapa de capacidades y breve descripcion
-
 
 ![Mapa de Capacidades](Imagenes/MapaCapacidades.png)
+
+<p align="center">
+  <i>
+  Figure 1 - Mapa de capacidades de la UTPL <br/>
+  </i>
+</p>
