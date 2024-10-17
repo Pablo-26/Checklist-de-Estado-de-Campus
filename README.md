@@ -16,27 +16,24 @@ Version 1.0<br/>
 
 > Mantener un registro actualizado del estado de las instalaciones del campus es esencial para garantizar un entorno seguro y adecuado para estudiantes y personal. Un aplicativo en la nube que facilite la creación y seguimiento de checklists permitirá identificar y resolver problemas de manera oportuna, mejorando la calidad del entorno universitario. La computación en la nube asegurará que los datos sean accesibles desde cualquier dispositivo y en cualquier momento.*
 
-La presente propuesta tiene como objetivo desarrollar una aplicación móvil que permita gestionar de manera eficiente las verificaciones de los diferentes espacios del campus universitario mediante listas de control (checklists). La aplicación permitirá a los usuarios crear tareas específicas para la inspección de aulas, laboratorios, y otros espacios, y compartir esta información con el personal autorizado para que verifiquen y completen dichas tareas.
+La propuesta tiene como objetivo desarrollar una aplicación móvil que permita gestionar de manera eficiente las verificaciones de los diferentes espacios del campus universitario mediante listas de control (checklists). La aplicación permitirá a los usuarios crear tareas específicas para la inspección de aulas, laboratorios, y otros espacios, y compartir esta información con el personal autorizado para que verifiquen y completen dichas tareas.
 Cada tarea incluirá un checklist detallado y deberá ser completado por todos los usuarios involucrados. Solo cuando cada uno de los usuarios haya verificado y marcado su parte de la tarea como realizada, el sistema moverá automáticamente la tarea al apartado de "tareas completadas". Esto proporcionará un control preciso y un seguimiento eficiente del mantenimiento y estado de los espacios del campus.
 
 ### Funcionalidades principales
-- Creación y asignación de tareas: Los usuarios podrán crear y asignar tareas de verificación con checklists detallados.
-- Gestión colaborativa de tareas: Las tareas podrán ser compartidas entre varios usuarios, y todas las partes deben verificar su cumplimiento para que se considere completada.
-- Apartados de espacios: Cada área del campus (aulas, laboratorios, salas de cómputo) tendrá un listado detallado de elementos como iluminación, proyectores, escritorios, etc., con opciones para ingresar descripciones, estados y cantidades de artículos.
-- Registro de incidencias: Los usuarios podrán agregar descripciones, fotos y etiquetas a los ítems que requieran mantenimiento o que presenten problemas.
-- Acceso seguro: Cada estudiante o miembro del personal accederá a la aplicación mediante credenciales únicas, lo que garantiza un control de acceso personalizado a las diferentes secciones del sistema.
+- **Creación y asignación de tareas:** Los usuarios podrán crear y asignar tareas de verificación con checklists detallados.
+- **estión colaborativa de tareas:** Las tareas podrán ser compartidas entre varios usuarios, y todas las partes deben verificar su cumplimiento para que se considere completada.
+- **Apartados de espacios:** Cada área del campus (aulas, laboratorios, salas de cómputo) tendrá un listado detallado de elementos como iluminación, proyectores, escritorios, etc., con opciones para ingresar descripciones, estados y cantidades de artículos.
+- **Registro de incidencias:** Los usuarios podrán agregar descripciones, fotos y etiquetas a los ítems que requieran mantenimiento o que presenten problemas.
+- **Acceso seguro:** Cada estudiante o miembro del personal accederá a la aplicación mediante credenciales únicas, lo que garantiza un control de acceso personalizado a las diferentes secciones del sistema.
 
 ### Tecnologías Empleadas
 El desarrollo de la aplicación está basado en tecnologías modernas que permiten una experiencia de usuario fluida y eficiente tanto para dispositivos Android como iOS.
-
 
 ## Proceso de desarrollo de la propuesta
 
 ### 1) Hacer y detallar los requisitos del negocio 
 
 Dentro de esta sección hablaremos de la problemática a resolver, siendo lo más detallado posible para poder conocer todo el contexto y poder dar una solución efectiva que satisfaga los estándares de la empresa que nos confió su problemática. Se va a recolectar información sobre los problemas actuales del campus respecto al seguimiento del estado de las instalaciones, y se definen los objetivos que se buscan alcanzar con la solución. 
-
- 
 
 ### 2) Oportunidad de negocio 
 
