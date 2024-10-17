@@ -16,15 +16,19 @@ Version 1.0<br/>
 
 > Mantener un registro actualizado del estado de las instalaciones del campus es esencial para garantizar un entorno seguro y adecuado para estudiantes y personal. Un aplicativo en la nube que facilite la creación y seguimiento de checklists permitirá identificar y resolver problemas de manera oportuna, mejorando la calidad del entorno universitario. La computación en la nube asegurará que los datos sean accesibles desde cualquier dispositivo y en cualquier momento.*
 
-Podemos usar react native para crear una aplicación que pueda crear una tarea para realizar ckecklists y a su vez se pueda compartir esta informacion con otros usuarios y para que se complete esa tarea y se haga el check list todos deben poner que, si se verifico la tarea establecida y cuando todos completen el check, automáticamente se ponga dentro de un apartado de tareas realizada. 
+La presente propuesta tiene como objetivo desarrollar una aplicación móvil que permita gestionar de manera eficiente las verificaciones de los diferentes espacios del campus universitario mediante listas de control (checklists). La aplicación permitirá a los usuarios crear tareas específicas para la inspección de aulas, laboratorios, y otros espacios, y compartir esta información con el personal autorizado para que verifiquen y completen dichas tareas.
+Cada tarea incluirá un checklist detallado y deberá ser completado por todos los usuarios involucrados. Solo cuando cada uno de los usuarios haya verificado y marcado su parte de la tarea como realizada, el sistema moverá automáticamente la tarea al apartado de "tareas completadas". Esto proporcionará un control preciso y un seguimiento eficiente del mantenimiento y estado de los espacios del campus.
 
-Para el desarrollo de la solucion se ha propuesto la utliización de React Native para el frontend. La aplicación permitira a los usuarios  
+### Funcionalidades principales
+- Creación y asignación de tareas: Los usuarios podrán crear y asignar tareas de verificación con checklists detallados.
+- Gestión colaborativa de tareas: Las tareas podrán ser compartidas entre varios usuarios, y todas las partes deben verificar su cumplimiento para que se considere completada.
+- Apartados de espacios: Cada área del campus (aulas, laboratorios, salas de cómputo) tendrá un listado detallado de elementos como iluminación, proyectores, escritorios, etc., con opciones para ingresar descripciones, estados y cantidades de artículos.
+- Registro de incidencias: Los usuarios podrán agregar descripciones, fotos y etiquetas a los ítems que requieran mantenimiento o que presenten problemas.
+- Acceso seguro: Cada estudiante o miembro del personal accederá a la aplicación mediante credenciales únicas, lo que garantiza un control de acceso personalizado a las diferentes secciones del sistema.
 
-Cada estudiante deberá ingresar con sus credenciales para tener acceso a los diferentes apartados del aplicativo. 
+### Tecnologías Empleadas
+El desarrollo de la aplicación está basado en tecnologías modernas que permiten una experiencia de usuario fluida y eficiente tanto para dispositivos Android como iOS.
 
-Existen apartados, como aulas, laboratorios, salas de cómputo, cada uno de los apartados tendrá una lista con los diferentes números de aulas, laboratorios, etc. Cada sección del aula tendrá una lista con iluminación, proyector, escritorios, pizarras, instrumentos, etc. Dentro de esto se podrá ingresar una descripción de lo que se necesita, dar a conocer el estado, la cantidad de artículos, fotografías si es necesario. 
-
-Los estudiantes o personal tendrán la opción de modificar ítems en caso de ser necesario con diferentes etiquetas,  
 
 ## Proceso de desarrollo de la propuesta
 
