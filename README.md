@@ -6,18 +6,12 @@ Version 1.0<br/>
 </p>
 
 **_Autores_**
-+ Freddy Leon, Quality Assurance
-<dakshitha@wso2.com>
-+ Carolina Alvarado, UX/UI Developer
-<dakshitha@wso2.com>
-+ Byron Castillo, Frontend Developer
-<dakshitha@wso2.com>
-+ Kevin Barrazueta, Security Manager
-<dakshitha@wso2.com>
-+ Kevin Bustamante, Backend Developer
-<dakshitha@wso2.com>
-+ Pablo Ramon, Software Architect
-<dakshitha@wso2.com>
++ [Freddy Leon](https://github.com/Freddyleonn16) - Quality Assurance
++ [Carolina Alvarado](https://github.com/carolaljime21), UX/UI Developer
++ [Byron Castillo](https://github.com/ByronCast09), Frontend Developer
++ [Kevin Barrazueta](https://github.com/0KevinB), Security Manager
++ [Kevin Bustamante](), Backend Developer
++ [Pablo Ramon](https://github.com/Pablo-26), Software Architect
 
 
 > Mantener un registro actualizado del estado de las instalaciones del campus es esencial para garantizar un entorno seguro y adecuado para estudiantes y personal. Un aplicativo en la nube que facilite la creación y seguimiento de checklists permitirá identificar y resolver problemas de manera oportuna, mejorando la calidad del entorno universitario. La computación en la nube asegurará que los datos sean accesibles desde cualquier dispositivo y en cualquier momento.*
