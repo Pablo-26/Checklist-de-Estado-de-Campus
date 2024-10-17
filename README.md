@@ -29,7 +29,7 @@ Los estudiantes o personal tendrán la opción de modificar ítems en caso de se
  
 # Pasos para comenzar este reto.
 
-1) Hacer y detallar los requisitos del negocio 
+## 1) Hacer y detallar los requisitos del negocio 
 
 Dentro de esta sección hablaremos de la problemática a resolver, siendo lo más detallado posible para poder conocer todo el contexto y poder dar una solución efectiva que satisfaga los estándares de la empresa que nos confió su problemática. Se va a recolectar información sobre los problemas actuales del campus respecto al seguimiento del estado de las instalaciones, y se definen los objetivos que se buscan alcanzar con la solución. 
 
