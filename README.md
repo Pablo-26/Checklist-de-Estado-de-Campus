@@ -220,4 +220,4 @@ Estableceremos las limitaciones que existen como el tiempo disponible, los recur
 Imagen del mapa de capacidades y breve descripcion
 
 
-![Mapa de Capacidades](MapaCapacidades.png)
+![Mapa de Capacidades](Imagenes/MapaCapacidades.png)
