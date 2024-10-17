@@ -27,7 +27,7 @@ Existen apartados, como aulas, laboratorios, salas de cómputo, cada uno de los 
 Los estudiantes o personal tendrán la opción de modificar ítems en caso de ser necesario con diferentes etiquetas,  
 
  
-### Pasos para comenzar este reto.
+# Pasos para comenzar este reto.
 
 1) Hacer y detallar los requisitos del negocio 
 
