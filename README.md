@@ -41,107 +41,107 @@ Se analizará el valor de esta solución que se puede aportar al campus y si es 
 
 Aplicaciones de checklist para mantenimiento de campus 
 
-iAuditor by SafetyCulture  
+2.1) iAuditor by SafetyCulture  
 
-Características principales:  
+-) Características principales:  
 
-Creación de checklists personalizables 
+* Creación de checklists personalizables 
 
-Captura de fotos y anotaciones 
+* Captura de fotos y anotaciones 
 
-Generación de informes en tiempo real 
+* Generación de informes en tiempo real 
 
-Asignación de tareas y seguimiento 
+* Asignación de tareas y seguimiento 
 
-Ventajas:  
+-) Ventajas:  
 
-Interfaz intuitiva 
+* Interfaz intuitiva 
 
-Amplia biblioteca de plantillas 
+* Amplia biblioteca de plantillas 
 
-Desventajas:  
+-) Desventajas:  
 
-Puede ser costoso para equipos grandes 
+* Puede ser costoso para equipos grandes 
 
-Facility Management eXpress (FMX)  
+2.2) Facility Management eXpress (FMX)  
 
-Características principales:  
+-) Características principales:  
 
-Gestión de mantenimiento preventivo 
+* Gestión de mantenimiento preventivo 
 
-Seguimiento de activos 
+* Seguimiento de activos 
 
-Programación de tareas 
+* Programación de tareas 
 
-Ventajas:  
+-) Ventajas:  
 
-Específicamente diseñado para gestión de instalaciones 
+* Específicamente diseñado para gestión de instalaciones 
 
-Buena integración con otros sistemas 
+* Buena integración con otros sistemas 
 
-Desventajas:  
+-) Desventajas:  
 
-Puede ser complejo para usuarios no técnicos 
+* Puede ser complejo para usuarios no técnicos 
 
-UpKeep 
+2.3) UpKeep 
 
-Características principales:  
+-) Características principales:  
 
-Gestión de órdenes de trabajo 
+* Gestión de órdenes de trabajo 
 
-Seguimiento de inventario 
+* Seguimiento de inventario 
 
-Análisis y reportes 
+* Análisis y reportes 
 
-Ventajas:  
+-) Ventajas:  
 
-Interfaz móvil amigable 
+* Interfaz móvil amigable 
 
-Buena para equipos de mantenimiento 
+* Buena para equipos de mantenimiento 
 
-Desventajas:  
+-) Desventajas:  
 
-Puede tener más funciones de las necesarias para un campus 
+* Puede tener más funciones de las necesarias para un campus 
 
-Checklist.com  
+2.4) Checklist.com  
 
-Características principales:  
+-) Características principales:  
 
-Creación simple de checklists 
+* Creación simple de checklists 
 
-Colaboración en tiempo real 
+* Colaboración en tiempo real 
 
-Integración con otras aplicaciones 
+* Integración con otras aplicaciones 
 
-Ventajas:  
+-) Ventajas:  
 
-Fácil de usar 
+* Fácil de usar 
 
-Versión gratuita disponible 
+* Versión gratuita disponible 
 
-Desventajas:  
+-) Desventajas:  
 
-Puede carecer de funciones específicas para mantenimiento de campus 
+* Puede carecer de funciones específicas para mantenimiento de campus 
 
-MaintainX  
+2.5) MaintainX  
 
-Características principales:  
+-) Características principales:  
 
-Gestión de procedimientos operativos estándar 
+* Gestión de procedimientos operativos estándar 
 
-Comunicación en tiempo real 
+* Comunicación en tiempo real 
 
-Seguimiento de métricas 
+* Seguimiento de métricas 
 
-Ventajas:  
+-) Ventajas:  
 
-Buena para la comunicación del equipo 
+* Buena para la comunicación del equipo 
 
-Interfaz móvil intuitiva 
+* Interfaz móvil intuitiva 
 
-Desventajas:  
+-) Desventajas:  
 
-Algunas funciones avanzadas solo en planes premium 
+* Algunas funciones avanzadas solo en planes premium 
 
  
 
