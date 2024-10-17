@@ -35,13 +35,13 @@ Dentro de esta sección hablaremos de la problemática a resolver, siendo lo má
 
  
 
-2) Oportunidad de negocio 
+## 2) Oportunidad de negocio 
 
 Se analizará el valor de esta solución que se puede aportar al campus y si es posible fuera del campus, se narrará los beneficios tangibles e intangibles conforme a nuestra solución planteada 
 
 Aplicaciones de checklist para mantenimiento de campus 
 
-2.1) iAuditor by SafetyCulture  
+### 2.1) iAuditor by SafetyCulture  
 
 -) Características principales:  
 
@@ -63,7 +63,7 @@ Aplicaciones de checklist para mantenimiento de campus
 
 * Puede ser costoso para equipos grandes 
 
-2.2) Facility Management eXpress (FMX)  
+### 2.2) Facility Management eXpress (FMX)  
 
 -) Características principales:  
 
@@ -83,7 +83,7 @@ Aplicaciones de checklist para mantenimiento de campus
 
 * Puede ser complejo para usuarios no técnicos 
 
-2.3) UpKeep 
+### 2.3) UpKeep 
 
 -) Características principales:  
 
@@ -103,7 +103,7 @@ Aplicaciones de checklist para mantenimiento de campus
 
 * Puede tener más funciones de las necesarias para un campus 
 
-2.4) Checklist.com  
+### 2.4) Checklist.com  
 
 -) Características principales:  
 
@@ -123,7 +123,7 @@ Aplicaciones de checklist para mantenimiento de campus
 
 * Puede carecer de funciones específicas para mantenimiento de campus 
 
-2.5) MaintainX  
+### 2.5) MaintainX  
 
 -) Características principales:  
 
@@ -145,25 +145,25 @@ Aplicaciones de checklist para mantenimiento de campus
 
  
 
-3) Objetivos del negocio 
+## 3) Objetivos del negocio 
 
 Narraremos los objetivos específicos que nosotros como empresa queremos lograr con la aplicación 
 
  
 
-4) Riesgos potenciales 
+## 4) Riesgos potenciales 
 
 Describiremos los posibles riesgos ya sean a futuro o durante el desarrollo de nuestra solución, entre ellos encontraremos riesgos de conectividad, accesibilidad o de integración; a su vez con su respectiva solución para estar prevenidos. 
 
  
 
-5) Alcance y limitaciones 
+## 5) Alcance y limitaciones 
 
 Estableceremos las limitaciones que existen como el tiempo disponible, los recursos técnicos y humanos, y las limitaciones tecnológicas. Usaremos una herramienta para poder gestionar estas tareas como Jira 
 
  
 
-6) Requisitos funcionales y no funcionales 
+## 6) Requisitos funcionales y no funcionales 
 
  **_Requisitos Funcionales Clave:_** 
 
@@ -193,7 +193,7 @@ Estableceremos las limitaciones que existen como el tiempo disponible, los recur
 
  
 
-7) Arquitectura de alto nivel 
+## 7) Arquitectura de alto nivel 
 
 - Servicio de Autenticación y Autorización 
 
