@@ -224,7 +224,7 @@ Estableceremos las limitaciones que existen como el tiempo disponible, los recur
 
 <h2> Mapa de Capacidades </h2>
 
-![Mapa de Capacidades](Imagenes/MapaCapacidades.png)
+![Mapa de Capacidades](Imagenes/MC.png)
 
 <p align="center">
   <i>
